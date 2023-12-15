@@ -1,0 +1,49 @@
+/* Ejemplo de estilo para la sección Quiénes Somos */
+#quienes-somos {
+    background-color: #f8f9fa; /* Fondo gris claro para la sección Quiénes Somos */
+    padding: 80px 0; /* Ajusta el espacio interno según tus preferencias */
+}
+  
+#quienes-somos h2 {
+    color: #333; /* Título en negro para mayor contraste */
+}
+  
+#quienes-somos p {
+    font-size: 18px; /* Tamaño de fuente ligeramente más grande */
+}
+  
+#quienes-somos img {
+    margin-top: 20px; /* Margen superior para separar la imagen del texto */
+}
+  
+  /* Ejemplo de estilo para tarjetas de servicios */
+.card {
+    margin-bottom: 20px;
+}
+
+/* Estilo para el footer */
+footer {
+    background-color: #343a40;
+}
+  
+footer p {
+    font-size: 14px;
+}
+  
+  /* Estilo para íconos de redes sociales */
+footer i {
+    font-size: 24px;
+    margin-right: 10px;
+}
+  
+/* Ajustes para imágenes responsivas y bordes redondeados */
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+  
+  /* Estilo para bordes redondeados */
+.rounded {
+    border-radius: 15px; /* Ajusta según tus preferencias */
+}
+
